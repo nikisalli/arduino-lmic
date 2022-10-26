@@ -1,6 +1,6 @@
 {
-    "name": "HelloWorld",
-    "version": "1.5.2",
+    "name": "arduino-lmic-nik",
+    "version": "0.0.1",
     "description": "nik fork of lmic",
     "repository":
     {

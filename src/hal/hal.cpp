@@ -9,7 +9,7 @@
  *******************************************************************************/
 
 #include <Arduino.h>
-#include <ArduinoLowPower.h>
+#include <avr/sleep.h>
 #include <SPI.h>
 #include "../lmic.h"
 #include "hal.h"

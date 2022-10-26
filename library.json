@@ -16,7 +16,7 @@
       }
     ],
     "dependencies": {
-      "arduino-libraries/ArduinoLowPower": "*"
+      "arduino-libraries/Arduino Low Power": "*"
     },
     "license": "MIT",
     "frameworks": "*",
